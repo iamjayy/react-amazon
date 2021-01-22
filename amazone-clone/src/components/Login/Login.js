@@ -23,7 +23,7 @@ function Login() {
           <h5>Password</h5>
           <input type="password" />
 
-          <button>Sign In</button>
+          <button className="login__signInButton">Sign In</button>
         </form>
 
         <p>
@@ -31,6 +31,8 @@ function Login() {
           our Privacy Notice, our Cookies Notice and our Interest-Based Ads
           Notice.
         </p>
+
+        <button className="login__registerButton">Create Account</button>
       </div>
     </div>
   );

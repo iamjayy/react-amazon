@@ -14,7 +14,7 @@ function Header() {
         <img
           alt="header__logo"
           className="header__logo"
-          src="https://lh3.googleusercontent.com/proxy/WaoSUamyhk4loWz2fH6ZuIdIpALKmCS8aaer0gcSrFFQL2dqIha7x3oUJGKgMQGELK6GFapowQnrapEGYN76zpOu5pJKytp2FprQLThcf0rRpotjt_-JA-0UsLB7YM-kWlwpWZAmdMw"
+          src="https://i.pinimg.com/originals/5e/9e/10/5e9e1001fa44ea14ff6fefab01b209bb.png"
         />
       </Link>
 

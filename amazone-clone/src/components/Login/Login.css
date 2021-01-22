@@ -67,3 +67,7 @@
   margin-top: 10px;
   border-color: darkgray;
 }
+
+button {
+  cursor: pointer;
+}

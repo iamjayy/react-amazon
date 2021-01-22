@@ -6,6 +6,7 @@
   position: sticky;
   top: 0;
   z-index: 100;
+  border-bottom: 2px solid orange;
 }
 
 .header__logo {
@@ -50,7 +51,7 @@
 .header__optionBasket {
   display: flex;
   align-items: center;
-  color: blue;
+  color: orange;
 }
 
 .header__basketCount {
@@ -68,5 +69,5 @@
   flex-direction: column;
   margin-left: 10px;
   margin-right: 10px;
-  color: blue;
+  color: orange;
 }

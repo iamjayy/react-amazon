@@ -9,10 +9,6 @@ function Home() {
       <div className="home__container">
         <img className="home__image" src={hero} alt="" />
 
-        <div className="popular__items">
-          <h1>Popular Items</h1>
-        </div>
-
         <div className="home__row">
           <Product
             id="12321341"
